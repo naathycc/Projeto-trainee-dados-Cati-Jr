@@ -1,4 +1,4 @@
-# 🏠 Projeto Trainee em Dados - CATI Jr.
+# 🏠 Projeto Trainee de Dados - CATI Jr.
 
 Este repositório contém o desenvolvimento do meu **Projeto Final** do Processo Trainee de Dados da **CATI Jr.**
 
